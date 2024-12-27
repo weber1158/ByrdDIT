@@ -31,7 +31,7 @@ To improve the accessibility of these crucial data sets for researchers worldwid
 
 ## Use
 
-<small>`ByrdDIT`</small> is designed so that anyone, regardless of programming knowledge, is able to use it. First, sign up for a free [MathWorks account](https://www.mathworks.com/mwaccount/account/create?cid=getmatlab&wid=&uri=https%3A%2F%2Fmatlab.mathworks.com%2F) and download/open the <small>`ByrdDIT`</small> repository in MATLAB Online. Then, simply type either of the following commands into the Command Window to activate the GUI:
+<small>`ByrdDIT`</small> is designed so that anyone, regardless of programming knowledge, is able to use it. First, sign up for a free [MathWorks account](https://www.mathworks.com/mwaccount/account/create?cid=getmatlab&wid=&uri=https%3A%2F%2Fmatlab.mathworks.com%2F) and download/open the <small>`ByrdDIT`</small> repository in MATLAB Online [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/fileexchange/v1?id=171139). Then, simply type either of the following commands into the Command Window to activate the GUI:
 
 Option 1:
 ```matlab
