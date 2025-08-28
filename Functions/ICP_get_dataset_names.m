@@ -23,8 +23,7 @@ function dataset_names = ICP_get_dataset_names(publication_name)
 %  ©Austin M. Weber 2023
 
 % Import table of ice core names and their corresponding publications
-pathname = pwd;
-filename = [pathname '/Data/byrd-data-info.xlsx'];
+filename = 'byrd-data-info.xlsx';
 name_table = readtable(filename,...
 	'NumHeaderLines',1,'VariableNamingRule','preserve',...
 	'Sheet','sheet_names');

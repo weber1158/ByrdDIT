@@ -50,8 +50,7 @@ function publication_names = ICP_get_publication_names(core_name)
 
 
 % Import table of ice core names and their corresponding publications
-pathname = pwd;
-filename = [pathname '/Data/byrd-data-info.xlsx'];
+filename = 'byrd-data-info.xlsx';
 name_table = readtable(filename,...
 	'VariableNamingRule','preserve','Sheet','publication');
 
