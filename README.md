@@ -94,7 +94,7 @@ The screenshot above shows how the user can select a data set for the Nevado Hua
 
 
 ## How to cite
-Weber, Austin M. (2024) ByrdDIT - The Byrd Data Import Tool. Version 3.1 [Software]. GitHub. https://github.com/weber1158/Byrd-ICP-Data-App
+Weber, Austin M. (2024) ByrdDIT - The Byrd Data Import Tool. Version 3.1 [Software]. GitHub. https://github.com/weber1158/ByrdDIT
 
 For BibTeX:
 ```tex
@@ -104,7 +104,7 @@ For BibTeX:
    year = 2024, 
    publisher = {GitHub}, 
    version = {3.1}, 
-   url = {https://github.com/weber1158/Byrd-ICP-Data-App} 
+   url = {https://github.com/weber1158/ByrdDIT} 
 }
 ```
 
