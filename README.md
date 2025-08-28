@@ -24,10 +24,19 @@ To improve the accessibility of these crucial data sets for researchers worldwid
 
 
 ## Timeline of Major Changes
+* **28 August 2025** - Updated <small>`ByrdApp.mlapp`</small> to Version 3.1.
 * **10 August 2024** - Updated <small>`ByrdApp.mlapp`</small> to Version 3.0. Includes a local data repository for significantly faster data import times and a new, scientifically-improved GUI interface with additional features (such as a button for copying citations in the <small>`BibTeX`</small> style).
 * **18 December 2023** - Updated <small>`ByrdApp.mlapp`</small> to Version 2.3. Users can now import data for the Elbrus ice core as well as the 41,000 year data for the Guliya plateau ice core. Additional plotting capabilities added.
 * **10 October 2023** - Updated <small>`ByrdApp.mlapp`</small> to Version 2.2 in order to reflect changes in the data repository and to provide a fix for plotting ice core locations on a geographic axes.
 * **09 October 2023** - Updated package to Version 2.0 and removed depreciated functions.
+
+## Installation
+
+<img alt="Installation Step 1" width="800" src="/Screenshots/installation1.png">
+
+<img alt="Installation Step 2" width="600" src="/Screenshots/installation2.png">
+
+<img alt="Installation Step 3" width="800" src="/Screenshots/installation3.png">
 
 ## Use
 
@@ -45,7 +54,7 @@ ByrdApp
 
 That's it!
 
-The latest rendition of the app (Version 3.0) should look like this:
+The latest rendition of the app (Version 3.1) should look like this:
 
 <img alt="Byrd Data Import Tool Appearance" width="800" src="/Screenshots/app-tutorial-image.png">
 
@@ -82,7 +91,7 @@ The screenshot above shows how the user can select a data set for the Nevado Hua
 
 
 ## How to cite
-Weber, Austin M. (2024) ByrdDIT - The Byrd Data Import Tool. Version 3.0 [Software]. GitHub. https://github.com/weber1158/Byrd-ICP-Data-App
+Weber, Austin M. (2024) ByrdDIT - The Byrd Data Import Tool. Version 3.1 [Software]. GitHub. https://github.com/weber1158/Byrd-ICP-Data-App
 
 For BibTeX:
 ```tex
@@ -91,7 +100,7 @@ For BibTeX:
    title = {{ByrdDIT} - {The} {Byrd} {Data} {Import} {Tool}}, 
    year = 2024, 
    publisher = {GitHub}, 
-   version = {3.0}, 
+   version = {3.1}, 
    url = {https://github.com/weber1158/Byrd-ICP-Data-App} 
 }
 ```
