@@ -41,7 +41,7 @@ To improve the accessibility of these crucial data sets for researchers worldwid
 
 ## Use
 
-<small>`ByrdDIT`</small> is designed so that anyone, regardless of programming knowledge, is able to use it. First, sign up for a free [MathWorks account](https://www.mathworks.com/mwaccount/account/create?cid=getmatlab&wid=&uri=https%3A%2F%2Fmatlab.mathworks.com%2F) and download/open the <small>`ByrdDIT`</small> repository in MATLAB Online [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/fileexchange/v1?id=171139). Then, simply type either of the following commands into the Command Window to activate the GUI:
+<small>`ByrdDIT`</small> is designed so that anyone, regardless of programming knowledge, is able to use it. Once the repository is properly installed (see the instructions above), simply type either of the following commands into the Command Window to activate the GUI:
 
 Option 1:
 ```matlab
@@ -110,4 +110,5 @@ For BibTeX:
 * Thompson, Lonnie G., Davis, M. E., Mosley-Thompson, E., Porter, S. E., Corrales, G. V., Shuman, C. A., & Tucker, C. J. (2021). The impacts of warming on rapidly retreating high-altitude, low-latitude glaciers and ice core-derived climate records. Global and Planetary Change, 203, 103538. https://doi.org/10.1016/j.gloplacha.2021.103538
 
 * Weber, Austin M. (2023). Byrd Polar and Climate Research Center Ice Core Paleoclimatology Datasets in a Standardized Excel Format (1.2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10403150
+
 
