@@ -7,6 +7,8 @@ An intuitve graphical user interface (GUI) for ice core researchers to quickly a
 
 ## Table of Contents ##
 
+*Note: Unfortunately, the links in the TOC only work on Github.*
+
 - [Why the Byrd Data Import Tool?](#why-byrddit)
 - [Timeline of major changes](#timeline-of-major-changes)
 - [Installation Instructions](#installation)
@@ -110,5 +112,6 @@ For BibTeX:
 * Thompson, Lonnie G., Davis, M. E., Mosley-Thompson, E., Porter, S. E., Corrales, G. V., Shuman, C. A., & Tucker, C. J. (2021). The impacts of warming on rapidly retreating high-altitude, low-latitude glaciers and ice core-derived climate records. Global and Planetary Change, 203, 103538. https://doi.org/10.1016/j.gloplacha.2021.103538
 
 * Weber, Austin M. (2023). Byrd Polar and Climate Research Center Ice Core Paleoclimatology Datasets in a Standardized Excel Format (1.2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10403150
+
 
 
