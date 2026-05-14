@@ -27,7 +27,7 @@ To improve the accessibility of these crucial data sets for researchers worldwid
 
 ## Tutorial
 ### How to open the app
-Once the repository is properly installed (see [`INSTALLATION.md`](https://github.com/weber1158/ByrdDIT/docs/INSTALLATION.md) for details), you can open the Byrd Data Import Tool by executing the following command:
+Once the repository is properly installed (see [`INSTALLATION.md`](https://github.com/weber1158/ByrdDIT/blob/main/docs/INSTALLATION.md) for details), you can open the Byrd Data Import Tool by executing the following command:
 
 ```matlab
 ByrdApp
