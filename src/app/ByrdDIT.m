@@ -5,4 +5,4 @@
 
 ByrdApp
 
-% Copyright (C) 2024 Austin M. Weber
+% Copyright (C) 2026 Austin M. Weber
